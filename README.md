@@ -1,0 +1,16 @@
+## dandelion-user 10 QP1A.190711.020 V12.0.22.0.QCDMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: mt6765
+- Codename: dandelion
+- Brand: Redmi
+- Flavor: dandelion-user
+- Release Version: 10
+- Kernel Version: 4.9.190
+- Id: QP1A.190711.020
+- Incremental: V12.0.22.0.QCDMIXM
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Compatible: true
+- Locale: en-GB
+- Screen Density: 440
